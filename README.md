@@ -50,10 +50,6 @@ Uma versão simplificada, sem persistência no banco de dados, de uma loja onlin
 
 </td>
 
-</tr>
-
-<tr  style="width:120px">
-
 <td  align="center">
 
 <a  target=”_blank”  href="https://github.com/cifernando">
@@ -69,10 +65,6 @@ Uma versão simplificada, sem persistência no banco de dados, de uma loja onlin
 </a>
 
 </td>
-
-</tr>
-
-<tr  style="width:120px">
 
 <td  align="center">
 
@@ -91,10 +83,6 @@ Marcelo Araujo no GitHub"/><br>
 
 </td>
 
-</tr>
-
-<tr  style="width:120px">
-
 <td  align="center">
 
 <a  target=”_blank”  href="https://github.com/martinsilver">
@@ -110,10 +98,6 @@ Marcelo Araujo no GitHub"/><br>
 </a>
 
 </td>
-
-</tr>
-
-<tr  style="width:120px">
 
 <td  align="center">
 
@@ -134,4 +118,3 @@ Marcelo Araujo no GitHub"/><br>
 </tr>
 
 </table>
-
