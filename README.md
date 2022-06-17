@@ -1,4 +1,4 @@
-# Projeto Shopping Cart
+# Projeto Fronted Online Store
 ## 📋 Descrição do projeto
 Uma versão simplificada, sem persistência no banco de dados, de uma loja online, desenvolvendo em grupo suas funcionalidades de acordo com demandas definidas em um quadro Kanban, em um cenário mais próximo ao do mercado de trabalho.
 
